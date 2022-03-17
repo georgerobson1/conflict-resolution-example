@@ -1,1 +1,1 @@
-cat("Hello Beautiful World!\n")
+cat("Hello World!\n")
